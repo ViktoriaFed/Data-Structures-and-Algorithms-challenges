@@ -7,7 +7,7 @@ function removeDuplicates(arr) {
         }
     }
 
-    return uniqueArr;
+    return uniqueArr; 
 }
 
 module.exports = removeDuplicates;
